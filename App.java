@@ -3,7 +3,6 @@ class App {
 	private int id = 99;
 	private String hello;
 	private float b;
-	private char = 'a';
 
 	App () {
 		
