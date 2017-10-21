@@ -1,5 +1,7 @@
 class App {
+
 	private int id = 99;
+	private String hello;	
 
 	App () {
 		
