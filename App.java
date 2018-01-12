@@ -2,7 +2,7 @@ class App {
 
 	private int id = 99;
 	private String hello;
-	private float speed = 0.55;
+	private float speed = 0.75;
 	private float b;
 	
 	App () {
